@@ -1,10 +1,4 @@
-推送模式：在 config/config.yaml 中调整报告模式：
-
-incremental: 只推送新增热点（推荐）
-
-current: 推送当前全部热点
-
-daily: 每日汇总报告。。。name: Hot News Crawler
+name: Hot News Crawler
 
 on:
   schedule:
